@@ -1,0 +1,14 @@
+div.q-pagination{
+        padding         : 10px;
+        padding-right   : 50px;
+        text-align      : right;
+}
+span.q-pagination{
+        font-size       : 10pt;
+        /*float: right;*/
+}
+.q-pagination .current-page{
+        color           : black;
+        font-weight     : bold;
+        font-size       : 11pt;
+}

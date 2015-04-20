@@ -1,0 +1,1 @@
+<?= CJSON::encode($data);
